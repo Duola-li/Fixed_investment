@@ -1,0 +1,8 @@
+﻿#log文件
+*.log
+
+#python 编译文件
+*.pyc[cod]
+
+#我的设计思路
+*.duola
